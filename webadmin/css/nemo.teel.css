@@ -1,0 +1,56 @@
+/*
+color:
+   colour: #008670;
+   white
+
+borders:
+   lightgrey
+   black
+
+*/
+
+
+/* Tags */
+a{
+   color: #008670;
+   cursor: pointer;
+   text-decoration: underline;
+}
+a:hover, .menu li a:hover, menu li ul a:hover{
+   cursor: pointer;
+   color: #008670;
+   text-decoration: none;
+}
+
+/* IDs */
+#divHeader
+{
+   font-size: 30px;
+   color: white;
+   border-top: 2px solid lightgrey;
+   background: url("../images/topSectionBar.teel.png") repeat-x scroll 0 0 transparent;
+   border-bottom: 2px solid black;
+   position: relative;
+   height:54px;
+}
+
+/* Classes */
+.textColour{
+   /*color: #008670;*/
+   color: #007052;
+}
+
+
+.blokkie p{
+   border: 1px solid #008670;
+   padding: 10px;
+   margin: 0px;
+}
+
+.menuL2divider{position:absolute;border-top:solid #008670 4px;width:100%}
+
+.linkbutton
+{
+   color: #008670;
+}
+

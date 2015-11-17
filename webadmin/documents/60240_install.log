@@ -1,0 +1,828 @@
+﻿2010-07-29 10:01:09.390   Log opened. (Time zone: UTC+02:00)
+2010-07-29 10:01:09.390   Setup version: Inno Setup version 5.3.10 (u)
+2010-07-29 10:01:09.390   Original Setup EXE: \\ws01\Quickprep\XP\K-Lite_Codec_Pack_620_Full.exe
+2010-07-29 10:01:09.390   Setup command line: /SL5="$4028A,14656276,280064,\\ws01\Quickprep\XP\K-Lite_Codec_Pack_620_Full.exe" 
+2010-07-29 10:01:09.390   Windows version: 5.1.2600 SP3  (NT platform: Yes)
+2010-07-29 10:01:09.390   64-bit Windows: No
+2010-07-29 10:01:09.390   Processor architecture: x86
+2010-07-29 10:01:09.390   User privileges: Administrative
+2010-07-29 10:01:09.406   64-bit install mode: No
+2010-07-29 10:01:09.406   Created temporary directory: C:\DOCUME~1\User\LOCALS~1\Temp\is-1U78U.tmp
+2010-07-29 10:01:09.468   Detected DirectX version: 9.0c
+2010-07-29 10:01:09.468   Detecting if an old version of the K-Lite Codec Pack is currently installed.
+2010-07-29 10:01:09.468   Detecting if other codec packs are installed.
+2010-07-29 10:01:09.468   Detecting if there are any codecs or filters installed that are known to be troublemakers.
+2010-07-29 10:01:09.468   Detecting known players.
+2010-07-29 10:01:09.468   Detecting existing codecs and filters.
+2010-07-29 10:01:44.953   Performing pre-install tasks.
+2010-07-29 10:01:44.953   Checking active processes.
+2010-07-29 10:01:44.968   Starting the installation process.
+2010-07-29 10:01:44.984   Creating directory: C:\Program Files\K-Lite Codec Pack
+2010-07-29 10:01:45.015   Directory for uninstall files: C:\Program Files\K-Lite Codec Pack
+2010-07-29 10:01:45.015   Creating new uninstall log: C:\Program Files\K-Lite Codec Pack\unins000.dat
+2010-07-29 10:01:45.015   -- File entry --
+2010-07-29 10:01:45.015   Dest filename: C:\Program Files\K-Lite Codec Pack\unins000.exe
+2010-07-29 10:01:45.015   Time stamp of our file: 2010-07-29 10:01:09.265
+2010-07-29 10:01:45.015   Installing the file.
+2010-07-29 10:01:45.015   Uninstaller requires administrator: Yes
+2010-07-29 10:01:45.015   Successfully installed the file.
+2010-07-29 10:01:45.015   -- File entry --
+2010-07-29 10:01:45.015   Dest filename: C:\Program Files\K-Lite Codec Pack\psvince.dll
+2010-07-29 10:01:45.015   Time stamp of our file: 2001-12-19 23:03:26.000
+2010-07-29 10:01:45.015   Installing the file.
+2010-07-29 10:01:45.015   Successfully installed the file.
+2010-07-29 10:01:45.015   -- File entry --
+2010-07-29 10:01:45.015   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\CodecTweakTool.exe
+2010-07-29 10:01:45.015   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.015   Installing the file.
+2010-07-29 10:01:45.015   Creating directory: C:\Program Files\K-Lite Codec Pack\Tools
+2010-07-29 10:01:45.125   Successfully installed the file.
+2010-07-29 10:01:45.125   -- File entry --
+2010-07-29 10:01:45.125   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\CodecTweakTool-0.bin
+2010-07-29 10:01:45.125   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.125   Installing the file.
+2010-07-29 10:01:45.140   Successfully installed the file.
+2010-07-29 10:01:45.140   -- File entry --
+2010-07-29 10:01:45.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\CodecTweakTool-1.bin
+2010-07-29 10:01:45.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.140   Installing the file.
+2010-07-29 10:01:45.140   Successfully installed the file.
+2010-07-29 10:01:45.140   -- File entry --
+2010-07-29 10:01:45.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\contents.rtf
+2010-07-29 10:01:45.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.140   Installing the file.
+2010-07-29 10:01:45.140   Creating directory: C:\Program Files\K-Lite Codec Pack\Info
+2010-07-29 10:01:45.140   Successfully installed the file.
+2010-07-29 10:01:45.140   -- File entry --
+2010-07-29 10:01:45.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq.htm
+2010-07-29 10:01:45.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.140   Installing the file.
+2010-07-29 10:01:45.140   Successfully installed the file.
+2010-07-29 10:01:45.140   -- File entry --
+2010-07-29 10:01:45.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_64bit.htm
+2010-07-29 10:01:45.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.140   Installing the file.
+2010-07-29 10:01:45.140   Successfully installed the file.
+2010-07-29 10:01:45.140   -- File entry --
+2010-07-29 10:01:45.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_configuration.htm
+2010-07-29 10:01:45.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.140   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_display_issues.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_dxva.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_general.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_installation.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_miscellaneous.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_mpc.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_playback_issues.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.156   Successfully installed the file.
+2010-07-29 10:01:45.156   -- File entry --
+2010-07-29 10:01:45.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_subtitles.htm
+2010-07-29 10:01:45.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.156   Installing the file.
+2010-07-29 10:01:45.187   Successfully installed the file.
+2010-07-29 10:01:45.187   -- File entry --
+2010-07-29 10:01:45.187   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_thumbnails.htm
+2010-07-29 10:01:45.187   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.187   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_troubleshooting.htm
+2010-07-29 10:01:45.203   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_windows_issues.htm
+2010-07-29 10:01:45.203   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq_wmp.htm
+2010-07-29 10:01:45.203   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Info\faq.css
+2010-07-29 10:01:45.203   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Icons\xvid.ico
+2010-07-29 10:01:45.203   Time stamp of our file: 2004-05-30 04:30:32.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Creating directory: C:\Program Files\K-Lite Codec Pack\Icons
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Icons\delete.ico
+2010-07-29 10:01:45.203   Time stamp of our file: 2006-04-15 14:30:48.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Icons\config.ico
+2010-07-29 10:01:45.203   Time stamp of our file: 2006-04-15 14:30:48.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Successfully installed the file.
+2010-07-29 10:01:45.203   -- File entry --
+2010-07-29 10:01:45.203   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\mpc-hc.exe
+2010-07-29 10:01:45.203   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.203   Installing the file.
+2010-07-29 10:01:45.203   Creating directory: C:\Program Files\K-Lite Codec Pack\Media Player Classic
+2010-07-29 10:01:45.703   Successfully installed the file.
+2010-07-29 10:01:45.703   -- File entry --
+2010-07-29 10:01:45.703   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\mpc_license_source_and_credits.txt
+2010-07-29 10:01:45.703   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.703   Installing the file.
+2010-07-29 10:01:45.703   Successfully installed the file.
+2010-07-29 10:01:45.703   -- File entry --
+2010-07-29 10:01:45.703   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\mpciconlib.dll
+2010-07-29 10:01:45.703   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:45.703   Installing the file.
+2010-07-29 10:01:45.890   Successfully installed the file.
+2010-07-29 10:01:45.890   -- File entry --
+2010-07-29 10:01:45.890   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\D3DX9_41.dll
+2010-07-29 10:01:45.890   Time stamp of our file: 2009-03-09 15:27:22.000
+2010-07-29 10:01:45.890   Installing the file.
+2010-07-29 10:01:46.265   Successfully installed the file.
+2010-07-29 10:01:46.265   -- File entry --
+2010-07-29 10:01:46.265   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\toolbar.bmp
+2010-07-29 10:01:46.265   Time stamp of our file: 2010-03-04 20:05:28.000
+2010-07-29 10:01:46.265   Installing the file.
+2010-07-29 10:01:46.265   Successfully installed the file.
+2010-07-29 10:01:46.265   -- File entry --
+2010-07-29 10:01:46.265   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ffdshow_license_source_and_credits.txt
+2010-07-29 10:01:46.265   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:46.265   Installing the file.
+2010-07-29 10:01:46.265   Creating directory: C:\Program Files\K-Lite Codec Pack\ffdshow
+2010-07-29 10:01:46.265   Successfully installed the file.
+2010-07-29 10:01:46.265   -- File entry --
+2010-07-29 10:01:46.265   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ffmpegmt.dll
+2010-07-29 10:01:46.265   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:46.265   Installing the file.
+2010-07-29 10:01:46.328   Successfully installed the file.
+2010-07-29 10:01:46.328   -- File entry --
+2010-07-29 10:01:46.328   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\libavcodec.dll
+2010-07-29 10:01:46.328   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:46.328   Installing the file.
+2010-07-29 10:01:46.734   Successfully installed the file.
+2010-07-29 10:01:46.734   -- File entry --
+2010-07-29 10:01:46.734   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\libmplayer.dll
+2010-07-29 10:01:46.734   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:46.734   Installing the file.
+2010-07-29 10:01:46.765   Successfully installed the file.
+2010-07-29 10:01:46.765   -- File entry --
+2010-07-29 10:01:46.765   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ffdshow.ax
+2010-07-29 10:01:46.765   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:46.765   Installing the file.
+2010-07-29 10:01:47.000   Successfully installed the file.
+2010-07-29 10:01:47.000   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.000   -- File entry --
+2010-07-29 10:01:47.000   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_liba52.dll
+2010-07-29 10:01:47.000   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.000   Installing the file.
+2010-07-29 10:01:47.015   Successfully installed the file.
+2010-07-29 10:01:47.015   -- File entry --
+2010-07-29 10:01:47.015   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_libdts.dll
+2010-07-29 10:01:47.015   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.015   Installing the file.
+2010-07-29 10:01:47.031   Successfully installed the file.
+2010-07-29 10:01:47.031   -- File entry --
+2010-07-29 10:01:47.031   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_libfaad2.dll
+2010-07-29 10:01:47.031   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.031   Installing the file.
+2010-07-29 10:01:47.078   Successfully installed the file.
+2010-07-29 10:01:47.078   -- File entry --
+2010-07-29 10:01:47.078   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_libmad.dll
+2010-07-29 10:01:47.078   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.078   Installing the file.
+2010-07-29 10:01:47.093   Successfully installed the file.
+2010-07-29 10:01:47.093   -- File entry --
+2010-07-29 10:01:47.093   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_unrar.dll
+2010-07-29 10:01:47.093   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.093   Installing the file.
+2010-07-29 10:01:47.109   Successfully installed the file.
+2010-07-29 10:01:47.109   -- File entry --
+2010-07-29 10:01:47.109   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\libmpeg2_ff.dll
+2010-07-29 10:01:47.109   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.109   Installing the file.
+2010-07-29 10:01:47.140   Successfully installed the file.
+2010-07-29 10:01:47.140   -- File entry --
+2010-07-29 10:01:47.140   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_wmv9.dll
+2010-07-29 10:01:47.140   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.140   Installing the file.
+2010-07-29 10:01:47.156   Successfully installed the file.
+2010-07-29 10:01:47.156   -- File entry --
+2010-07-29 10:01:47.156   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_samplerate.dll
+2010-07-29 10:01:47.156   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.156   Installing the file.
+2010-07-29 10:01:47.390   Successfully installed the file.
+2010-07-29 10:01:47.390   -- File entry --
+2010-07-29 10:01:47.390   Dest filename: C:\WINDOWS\system32\ff_vfw.dll
+2010-07-29 10:01:47.390   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.390   Installing the file.
+2010-07-29 10:01:47.390   Successfully installed the file.
+2010-07-29 10:01:47.390   -- File entry --
+2010-07-29 10:01:47.390   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ff_kernelDeint.dll
+2010-07-29 10:01:47.390   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.390   Installing the file.
+2010-07-29 10:01:47.406   Successfully installed the file.
+2010-07-29 10:01:47.406   -- File entry --
+2010-07-29 10:01:47.406   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\TomsMoComp_ff.dll
+2010-07-29 10:01:47.406   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.406   Installing the file.
+2010-07-29 10:01:47.421   Successfully installed the file.
+2010-07-29 10:01:47.421   -- File entry --
+2010-07-29 10:01:47.421   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\FLT_ffdshow.dll
+2010-07-29 10:01:47.421   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:47.421   Installing the file.
+2010-07-29 10:01:47.421   Successfully installed the file.
+2010-07-29 10:01:47.421   -- File entry --
+2010-07-29 10:01:47.421   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\openIE.js
+2010-07-29 10:01:47.421   Time stamp of our file: 2007-10-20 13:04:26.000
+2010-07-29 10:01:47.421   Installing the file.
+2010-07-29 10:01:47.421   Successfully installed the file.
+2010-07-29 10:01:47.421   -- File entry --
+2010-07-29 10:01:47.421   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\ffdshow.ax.manifest
+2010-07-29 10:01:47.421   Time stamp of our file: 2007-07-10 18:10:12.000
+2010-07-29 10:01:47.421   Installing the file.
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\WINDOWS\system32\ff_vfw.dll.manifest
+2010-07-29 10:01:47.437   Time stamp of our file: 2007-07-10 18:10:12.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1026.bg
+2010-07-29 10:01:47.437   Time stamp of our file: 2009-12-13 22:22:48.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.437   Creating directory: C:\Program Files\K-Lite Codec Pack\ffdshow\languages
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1028.tc
+2010-07-29 10:01:47.437   Time stamp of our file: 2009-12-30 01:02:26.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1029.cs
+2010-07-29 10:01:47.437   Time stamp of our file: 2010-02-21 18:02:46.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1029.cz
+2010-07-29 10:01:47.437   Time stamp of our file: 2009-05-04 18:03:44.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.437   Successfully installed the file.
+2010-07-29 10:01:47.437   -- File entry --
+2010-07-29 10:01:47.437   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1031.de
+2010-07-29 10:01:47.437   Time stamp of our file: 2007-10-28 12:50:44.000
+2010-07-29 10:01:47.437   Installing the file.
+2010-07-29 10:01:47.453   Successfully installed the file.
+2010-07-29 10:01:47.453   -- File entry --
+2010-07-29 10:01:47.453   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1033.en
+2010-07-29 10:01:47.453   Time stamp of our file: 2006-12-10 23:32:16.000
+2010-07-29 10:01:47.453   Installing the file.
+2010-07-29 10:01:47.453   Successfully installed the file.
+2010-07-29 10:01:47.453   -- File entry --
+2010-07-29 10:01:47.453   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1034.es
+2010-07-29 10:01:47.453   Time stamp of our file: 2010-05-07 12:01:30.000
+2010-07-29 10:01:47.453   Installing the file.
+2010-07-29 10:01:47.453   Successfully installed the file.
+2010-07-29 10:01:47.453   -- File entry --
+2010-07-29 10:01:47.453   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1035.fi
+2010-07-29 10:01:47.453   Time stamp of our file: 2007-12-31 19:26:30.000
+2010-07-29 10:01:47.453   Installing the file.
+2010-07-29 10:01:47.468   Successfully installed the file.
+2010-07-29 10:01:47.468   -- File entry --
+2010-07-29 10:01:47.468   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1036.fr
+2010-07-29 10:01:47.468   Time stamp of our file: 2010-05-31 17:01:18.000
+2010-07-29 10:01:47.468   Installing the file.
+2010-07-29 10:01:47.468   Successfully installed the file.
+2010-07-29 10:01:47.468   -- File entry --
+2010-07-29 10:01:47.468   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1038.hu
+2010-07-29 10:01:47.468   Time stamp of our file: 2006-12-10 23:32:16.000
+2010-07-29 10:01:47.468   Installing the file.
+2010-07-29 10:01:47.468   Successfully installed the file.
+2010-07-29 10:01:47.468   -- File entry --
+2010-07-29 10:01:47.468   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1040.it
+2010-07-29 10:01:47.468   Time stamp of our file: 2007-06-10 14:22:54.000
+2010-07-29 10:01:47.468   Installing the file.
+2010-07-29 10:01:47.484   Successfully installed the file.
+2010-07-29 10:01:47.484   -- File entry --
+2010-07-29 10:01:47.484   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1041.ja
+2010-07-29 10:01:47.484   Time stamp of our file: 2009-06-15 14:59:00.000
+2010-07-29 10:01:47.484   Installing the file.
+2010-07-29 10:01:47.500   Successfully installed the file.
+2010-07-29 10:01:47.500   -- File entry --
+2010-07-29 10:01:47.500   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1045.pl
+2010-07-29 10:01:47.500   Time stamp of our file: 2009-03-27 19:50:30.000
+2010-07-29 10:01:47.500   Installing the file.
+2010-07-29 10:01:47.515   Successfully installed the file.
+2010-07-29 10:01:47.515   -- File entry --
+2010-07-29 10:01:47.515   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1046.br
+2010-07-29 10:01:47.515   Time stamp of our file: 2006-12-10 23:32:16.000
+2010-07-29 10:01:47.515   Installing the file.
+2010-07-29 10:01:47.515   Successfully installed the file.
+2010-07-29 10:01:47.515   -- File entry --
+2010-07-29 10:01:47.515   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1049.ru
+2010-07-29 10:01:47.515   Time stamp of our file: 2010-05-05 18:56:04.000
+2010-07-29 10:01:47.515   Installing the file.
+2010-07-29 10:01:47.531   Successfully installed the file.
+2010-07-29 10:01:47.531   -- File entry --
+2010-07-29 10:01:47.531   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1051.sk
+2010-07-29 10:01:47.531   Time stamp of our file: 2006-12-10 23:32:16.000
+2010-07-29 10:01:47.531   Installing the file.
+2010-07-29 10:01:47.531   Successfully installed the file.
+2010-07-29 10:01:47.531   -- File entry --
+2010-07-29 10:01:47.531   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1053.se
+2010-07-29 10:01:47.531   Time stamp of our file: 2006-12-10 23:32:16.000
+2010-07-29 10:01:47.531   Installing the file.
+2010-07-29 10:01:47.531   Successfully installed the file.
+2010-07-29 10:01:47.531   -- File entry --
+2010-07-29 10:01:47.531   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.1053.sv
+2010-07-29 10:01:47.531   Time stamp of our file: 2010-01-09 14:35:34.000
+2010-07-29 10:01:47.531   Installing the file.
+2010-07-29 10:01:47.531   Successfully installed the file.
+2010-07-29 10:01:47.531   -- File entry --
+2010-07-29 10:01:47.531   Dest filename: C:\Program Files\K-Lite Codec Pack\ffdshow\languages\ffdshow.2052.sc
+2010-07-29 10:01:47.531   Time stamp of our file: 2010-07-02 14:04:42.000
+2010-07-29 10:01:47.531   Installing the file.
+2010-07-29 10:01:47.531   Successfully installed the file.
+2010-07-29 10:01:47.531   -- File entry --
+2010-07-29 10:01:47.531   Dest filename: C:\WINDOWS\system32\xvidvfw.dll
+2010-07-29 10:01:47.531   Time stamp of our file: 2010-06-08 18:10:50.000
+2010-07-29 10:01:47.531   Installing the file.
+2010-07-29 10:01:47.546   Successfully installed the file.
+2010-07-29 10:01:47.546   -- File entry --
+2010-07-29 10:01:47.546   Dest filename: C:\WINDOWS\system32\xvidcore.dll
+2010-07-29 10:01:47.546   Time stamp of our file: 2010-06-08 18:10:50.000
+2010-07-29 10:01:47.546   Installing the file.
+2010-07-29 10:01:47.609   Successfully installed the file.
+2010-07-29 10:01:47.609   -- File entry --
+2010-07-29 10:01:47.609   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\StatsReader.exe
+2010-07-29 10:01:47.609   Time stamp of our file: 2003-11-24 07:28:40.000
+2010-07-29 10:01:47.609   Installing the file.
+2010-07-29 10:01:47.609   Successfully installed the file.
+2010-07-29 10:01:47.609   -- File entry --
+2010-07-29 10:01:47.609   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\Xvid_Quant_Matrices.zip
+2010-07-29 10:01:47.609   Time stamp of our file: 2010-07-04 16:26:40.000
+2010-07-29 10:01:47.609   Installing the file.
+2010-07-29 10:01:47.609   Successfully installed the file.
+2010-07-29 10:01:47.609   -- File entry --
+2010-07-29 10:01:47.609   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\vp7dec.ax
+2010-07-29 10:01:47.609   Time stamp of our file: 2006-03-24 17:09:26.000
+2010-07-29 10:01:47.609   Installing the file.
+2010-07-29 10:01:47.609   Creating directory: C:\Program Files\K-Lite Codec Pack\Filters
+2010-07-29 10:01:47.625   Successfully installed the file.
+2010-07-29 10:01:47.625   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.625   -- File entry --
+2010-07-29 10:01:47.625   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\vp8decoder.dll
+2010-07-29 10:01:47.625   Time stamp of our file: 2010-07-02 20:14:52.000
+2010-07-29 10:01:47.625   Installing the file.
+2010-07-29 10:01:47.687   Successfully installed the file.
+2010-07-29 10:01:47.687   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.687   -- File entry --
+2010-07-29 10:01:47.687   Dest filename: C:\WINDOWS\system32\yv12vfw.dll
+2010-07-29 10:01:47.687   Time stamp of our file: 2004-01-25 18:18:44.000
+2010-07-29 10:01:47.687   Installing the file.
+2010-07-29 10:01:47.718   Successfully installed the file.
+2010-07-29 10:01:47.718   -- File entry --
+2010-07-29 10:01:47.718   Dest filename: C:\WINDOWS\system32\ac3acm.acm
+2010-07-29 10:01:47.718   Time stamp of our file: 2010-01-17 17:18:08.000
+2010-07-29 10:01:47.718   Installing the file.
+2010-07-29 10:01:47.765   Successfully installed the file.
+2010-07-29 10:01:47.765   -- File entry --
+2010-07-29 10:01:47.765   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\ac3file.ax
+2010-07-29 10:01:47.765   Time stamp of our file: 2009-08-04 09:09:02.000
+2010-07-29 10:01:47.765   Installing the file.
+2010-07-29 10:01:47.781   Successfully installed the file.
+2010-07-29 10:01:47.781   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.781   -- File entry --
+2010-07-29 10:01:47.781   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\mmamr.ax
+2010-07-29 10:01:47.781   Time stamp of our file: 2008-03-16 15:30:52.000
+2010-07-29 10:01:47.781   Installing the file.
+2010-07-29 10:01:47.843   Successfully installed the file.
+2010-07-29 10:01:47.843   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.843   -- File entry --
+2010-07-29 10:01:47.843   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdmx.ax
+2010-07-29 10:01:47.843   Time stamp of our file: 2009-01-18 18:15:14.000
+2010-07-29 10:01:47.843   Installing the file.
+2010-07-29 10:01:47.843   Successfully installed the file.
+2010-07-29 10:01:47.843   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.843   -- File entry --
+2010-07-29 10:01:47.843   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdec.ax
+2010-07-29 10:01:47.843   Time stamp of our file: 2009-01-18 13:03:40.000
+2010-07-29 10:01:47.843   Installing the file.
+2010-07-29 10:01:47.859   Successfully installed the file.
+2010-07-29 10:01:47.859   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.859   -- File entry --
+2010-07-29 10:01:47.859   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\mmaacd.ax
+2010-07-29 10:01:47.859   Time stamp of our file: 2009-03-08 11:52:32.000
+2010-07-29 10:01:47.859   Installing the file.
+2010-07-29 10:01:47.890   Successfully installed the file.
+2010-07-29 10:01:47.890   -- File entry --
+2010-07-29 10:01:47.890   Dest filename: C:\WINDOWS\system32\lameACM.acm
+2010-07-29 10:01:47.890   Time stamp of our file: 2008-09-24 20:41:12.000
+2010-07-29 10:01:47.890   Installing the file.
+2010-07-29 10:01:47.968   Successfully installed the file.
+2010-07-29 10:01:47.968   -- File entry --
+2010-07-29 10:01:47.968   Dest filename: C:\WINDOWS\system32\lame_acm.xml
+2010-07-29 10:01:47.968   Time stamp of our file: 2008-10-03 14:30:30.000
+2010-07-29 10:01:47.968   Installing the file.
+2010-07-29 10:01:47.968   Successfully installed the file.
+2010-07-29 10:01:47.968   -- File entry --
+2010-07-29 10:01:47.968   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSDecoder.ax
+2010-07-29 10:01:47.968   Time stamp of our file: 2008-04-15 11:56:04.000
+2010-07-29 10:01:47.968   Installing the file.
+2010-07-29 10:01:47.984   Successfully installed the file.
+2010-07-29 10:01:47.984   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.984   -- File entry --
+2010-07-29 10:01:47.984   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSSplitter.ax
+2010-07-29 10:01:47.984   Time stamp of our file: 2008-04-15 11:56:04.000
+2010-07-29 10:01:47.984   Installing the file.
+2010-07-29 10:01:47.984   Successfully installed the file.
+2010-07-29 10:01:47.984   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:47.984   -- File entry --
+2010-07-29 10:01:47.984   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\madFlac.ax
+2010-07-29 10:01:47.984   Time stamp of our file: 2008-04-13 20:32:24.000
+2010-07-29 10:01:47.984   Installing the file.
+2010-07-29 10:01:48.031   Successfully installed the file.
+2010-07-29 10:01:48.031   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.031   -- File entry --
+2010-07-29 10:01:48.031   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\libFLAC.dll
+2010-07-29 10:01:48.031   Time stamp of our file: 2007-10-07 15:36:32.000
+2010-07-29 10:01:48.031   Installing the file.
+2010-07-29 10:01:48.062   Successfully installed the file.
+2010-07-29 10:01:48.062   -- File entry --
+2010-07-29 10:01:48.062   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\DCBassSource.ax
+2010-07-29 10:01:48.062   Time stamp of our file: 2008-07-24 11:15:32.000
+2010-07-29 10:01:48.062   Installing the file.
+2010-07-29 10:01:48.093   Successfully installed the file.
+2010-07-29 10:01:48.093   -- File entry --
+2010-07-29 10:01:48.093   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\bass.dll
+2010-07-29 10:01:48.093   Time stamp of our file: 2008-06-13 12:10:26.000
+2010-07-29 10:01:48.093   Installing the file.
+2010-07-29 10:01:48.109   Successfully installed the file.
+2010-07-29 10:01:48.109   -- File entry --
+2010-07-29 10:01:48.109   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\bass_alac.dll
+2010-07-29 10:01:48.109   Time stamp of our file: 2008-02-27 21:03:12.000
+2010-07-29 10:01:48.109   Installing the file.
+2010-07-29 10:01:48.109   Successfully installed the file.
+2010-07-29 10:01:48.109   -- File entry --
+2010-07-29 10:01:48.109   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\bass_tta.dll
+2010-07-29 10:01:48.109   Time stamp of our file: 2008-02-27 22:49:50.000
+2010-07-29 10:01:48.109   Installing the file.
+2010-07-29 10:01:48.140   Successfully installed the file.
+2010-07-29 10:01:48.140   -- File entry --
+2010-07-29 10:01:48.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\bass_aac.dll
+2010-07-29 10:01:48.140   Time stamp of our file: 2008-04-17 13:17:38.000
+2010-07-29 10:01:48.140   Installing the file.
+2010-07-29 10:01:48.171   Successfully installed the file.
+2010-07-29 10:01:48.171   -- File entry --
+2010-07-29 10:01:48.171   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\MonkeySource.ax
+2010-07-29 10:01:48.171   Time stamp of our file: 2004-06-19 19:28:44.000
+2010-07-29 10:01:48.171   Installing the file.
+2010-07-29 10:01:48.218   Successfully installed the file.
+2010-07-29 10:01:48.218   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.218   -- File entry --
+2010-07-29 10:01:48.218   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\MACDec.dll
+2010-07-29 10:01:48.218   Time stamp of our file: 2004-05-15 17:10:42.000
+2010-07-29 10:01:48.218   Installing the file.
+2010-07-29 10:01:48.234   Successfully installed the file.
+2010-07-29 10:01:48.234   -- File entry --
+2010-07-29 10:01:48.234   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\CLVSD.ax
+2010-07-29 10:01:48.234   Time stamp of our file: 2010-04-02 09:11:32.000
+2010-07-29 10:01:48.234   Installing the file.
+2010-07-29 10:01:48.328   Successfully installed the file.
+2010-07-29 10:01:48.328   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.328   -- File entry --
+2010-07-29 10:01:48.328   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\MpegSplitter.ax
+2010-07-29 10:01:48.328   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.328   Installing the file.
+2010-07-29 10:01:48.343   Successfully installed the file.
+2010-07-29 10:01:48.343   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.343   -- File entry --
+2010-07-29 10:01:48.343   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\FLVSplitter.ax
+2010-07-29 10:01:48.343   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.343   Installing the file.
+2010-07-29 10:01:48.359   Successfully installed the file.
+2010-07-29 10:01:48.359   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.359   -- File entry --
+2010-07-29 10:01:48.359   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\MP4Splitter.ax
+2010-07-29 10:01:48.359   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.359   Installing the file.
+2010-07-29 10:01:48.406   Successfully installed the file.
+2010-07-29 10:01:48.406   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.406   -- File entry --
+2010-07-29 10:01:48.406   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\MatroskaSplitter.ax
+2010-07-29 10:01:48.406   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.406   Installing the file.
+2010-07-29 10:01:48.421   Successfully installed the file.
+2010-07-29 10:01:48.421   -- File entry --
+2010-07-29 10:01:48.421   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\avisplitter.ax
+2010-07-29 10:01:48.421   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.421   Installing the file.
+2010-07-29 10:01:48.453   Successfully installed the file.
+2010-07-29 10:01:48.453   -- File entry --
+2010-07-29 10:01:48.453   Dest filename: C:\WINDOWS\avisplitter.ini
+2010-07-29 10:01:48.453   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.453   Installing the file.
+2010-07-29 10:01:48.468   Successfully installed the file.
+2010-07-29 10:01:48.468   -- File entry --
+2010-07-29 10:01:48.468   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mkx.dll
+2010-07-29 10:01:48.468   Time stamp of our file: 2010-05-19 22:59:20.000
+2010-07-29 10:01:48.468   Installing the file.
+2010-07-29 10:01:48.468   Creating directory: C:\Program Files\K-Lite Codec Pack\Filters\Haali
+2010-07-29 10:01:48.468   Successfully installed the file.
+2010-07-29 10:01:48.468   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.468   -- File entry --
+2010-07-29 10:01:48.468   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\ogm.dll
+2010-07-29 10:01:48.468   Time stamp of our file: 2010-05-19 22:58:52.000
+2010-07-29 10:01:48.468   Installing the file.
+2010-07-29 10:01:48.484   Successfully installed the file.
+2010-07-29 10:01:48.484   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.484   -- File entry --
+2010-07-29 10:01:48.484   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mp4.dll
+2010-07-29 10:01:48.484   Time stamp of our file: 2010-05-19 22:59:02.000
+2010-07-29 10:01:48.484   Installing the file.
+2010-07-29 10:01:48.484   Successfully installed the file.
+2010-07-29 10:01:48.484   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.484   -- File entry --
+2010-07-29 10:01:48.484   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\ts.dll
+2010-07-29 10:01:48.484   Time stamp of our file: 2010-05-19 22:58:18.000
+2010-07-29 10:01:48.484   Installing the file.
+2010-07-29 10:01:48.531   Successfully installed the file.
+2010-07-29 10:01:48.531   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.531   -- File entry --
+2010-07-29 10:01:48.531   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\avi.dll
+2010-07-29 10:01:48.531   Time stamp of our file: 2010-05-19 22:59:10.000
+2010-07-29 10:01:48.531   Installing the file.
+2010-07-29 10:01:48.531   Successfully installed the file.
+2010-07-29 10:01:48.531   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.531   -- File entry --
+2010-07-29 10:01:48.531   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\splitter.ax
+2010-07-29 10:01:48.531   Time stamp of our file: 2010-05-19 22:59:52.000
+2010-07-29 10:01:48.531   Installing the file.
+2010-07-29 10:01:48.578   Successfully installed the file.
+2010-07-29 10:01:48.578   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.578   -- File entry --
+2010-07-29 10:01:48.578   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mkzlib.dll
+2010-07-29 10:01:48.578   Time stamp of our file: 2010-05-19 22:55:40.000
+2010-07-29 10:01:48.578   Installing the file.
+2010-07-29 10:01:48.593   Successfully installed the file.
+2010-07-29 10:01:48.593   -- File entry --
+2010-07-29 10:01:48.593   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mkunicode.dll
+2010-07-29 10:01:48.593   Time stamp of our file: 2010-05-19 22:55:36.000
+2010-07-29 10:01:48.593   Installing the file.
+2010-07-29 10:01:48.593   Successfully installed the file.
+2010-07-29 10:01:48.593   -- File entry --
+2010-07-29 10:01:48.593   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\avs.dll
+2010-07-29 10:01:48.593   Time stamp of our file: 2010-05-19 22:57:42.000
+2010-07-29 10:01:48.593   Installing the file.
+2010-07-29 10:01:48.593   Successfully installed the file.
+2010-07-29 10:01:48.593   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.593   -- File entry --
+2010-07-29 10:01:48.593   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\avss.dll
+2010-07-29 10:01:48.593   Time stamp of our file: 2010-05-19 22:57:26.000
+2010-07-29 10:01:48.593   Installing the file.
+2010-07-29 10:01:48.609   Successfully installed the file.
+2010-07-29 10:01:48.609   -- File entry --
+2010-07-29 10:01:48.609   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\gdsmux.exe
+2010-07-29 10:01:48.609   Time stamp of our file: 2010-05-19 22:57:20.000
+2010-07-29 10:01:48.609   Installing the file.
+2010-07-29 10:01:48.625   Successfully installed the file.
+2010-07-29 10:01:48.625   -- File entry --
+2010-07-29 10:01:48.625   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\cue2xml.js
+2010-07-29 10:01:48.625   Time stamp of our file: 2007-05-16 06:07:48.000
+2010-07-29 10:01:48.625   Installing the file.
+2010-07-29 10:01:48.625   Successfully installed the file.
+2010-07-29 10:01:48.625   -- File entry --
+2010-07-29 10:01:48.625   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\Haali\dxr.dll
+2010-07-29 10:01:48.625   Time stamp of our file: 2010-05-19 22:58:08.000
+2010-07-29 10:01:48.625   Installing the file.
+2010-07-29 10:01:48.656   Successfully installed the file.
+2010-07-29 10:01:48.656   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.656   -- File entry --
+2010-07-29 10:01:48.656   Dest filename: C:\Program Files\K-Lite Codec Pack\Filters\vsfilter.dll
+2010-07-29 10:01:48.656   Time stamp of our file: 2010-07-14 10:00:00.000
+2010-07-29 10:01:48.656   Installing the file.
+2010-07-29 10:01:48.718   Successfully installed the file.
+2010-07-29 10:01:48.718   Will register the file (a DLL/OCX) later.
+2010-07-29 10:01:48.718   -- File entry --
+2010-07-29 10:01:48.718   Dest filename: C:\WINDOWS\system32\unrar.dll
+2010-07-29 10:01:48.718   Time stamp of our file: 2010-03-15 11:31:48.000
+2010-07-29 10:01:48.718   Installing the file.
+2010-07-29 10:01:48.718   Successfully installed the file.
+2010-07-29 10:01:48.718   Incrementing shared file count (32-bit).
+2010-07-29 10:01:48.734   -- File entry --
+2010-07-29 10:01:48.734   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\VobSubStrip.exe
+2010-07-29 10:01:48.734   Time stamp of our file: 2002-10-15 20:58:38.000
+2010-07-29 10:01:48.734   Installing the file.
+2010-07-29 10:01:48.921   Successfully installed the file.
+2010-07-29 10:01:48.921   -- File entry --
+2010-07-29 10:01:48.921   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\mediainfo.exe
+2010-07-29 10:01:48.921   Time stamp of our file: 2009-07-21 17:26:10.000
+2010-07-29 10:01:48.921   Installing the file.
+2010-07-29 10:01:48.984   Successfully installed the file.
+2010-07-29 10:01:48.984   -- File entry --
+2010-07-29 10:01:48.984   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\mediainfo.dll
+2010-07-29 10:01:48.984   Time stamp of our file: 2010-07-10 01:31:10.000
+2010-07-29 10:01:48.984   Installing the file.
+2010-07-29 10:01:49.140   Successfully installed the file.
+2010-07-29 10:01:49.140   -- File entry --
+2010-07-29 10:01:49.140   Dest filename: C:\Program Files\K-Lite Codec Pack\Media Player Classic\mediainfo.dll
+2010-07-29 10:01:49.140   Time stamp of our file: 2010-07-10 01:31:10.000
+2010-07-29 10:01:49.140   Installing the file.
+2010-07-29 10:01:49.156   Successfully installed the file.
+2010-07-29 10:01:49.156   -- File entry --
+2010-07-29 10:01:49.156   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\graphstudio.exe
+2010-07-29 10:01:49.156   Time stamp of our file: 2009-06-14 13:50:40.000
+2010-07-29 10:01:49.156   Installing the file.
+2010-07-29 10:01:49.234   Successfully installed the file.
+2010-07-29 10:01:49.234   -- File entry --
+2010-07-29 10:01:49.234   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\xmllite.dll
+2010-07-29 10:01:49.234   Time stamp of our file: 2006-11-20 09:50:24.000
+2010-07-29 10:01:49.234   Installing the file.
+2010-07-29 10:01:49.234   Successfully installed the file.
+2010-07-29 10:01:49.234   -- File entry --
+2010-07-29 10:01:49.234   Dest filename: C:\Program Files\K-Lite Codec Pack\Tools\dsconfig.exe
+2010-07-29 10:01:49.234   Time stamp of our file: 2008-05-25 17:20:42.000
+2010-07-29 10:01:49.234   Installing the file.
+2010-07-29 10:01:49.296   Successfully installed the file.
+2010-07-29 10:01:49.296   -- Icon entry --
+2010-07-29 10:01:49.296   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Media Player Classic.lnk
+2010-07-29 10:01:49.296   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack
+2010-07-29 10:01:49.328   -- Icon entry --
+2010-07-29 10:01:49.328   Filename: C:\Documents and Settings\All Users\Desktop\Media Player Classic.lnk
+2010-07-29 10:01:49.343   -- Icon entry --
+2010-07-29 10:01:49.343   Filename: C:\Documents and Settings\User\Application Data\Microsoft\Internet Explorer\Quick Launch\Media Player Classic.lnk
+2010-07-29 10:01:49.343   -- Icon entry --
+2010-07-29 10:01:49.343   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Quick Codec Config.lnk
+2010-07-29 10:01:49.359   -- Icon entry --
+2010-07-29 10:01:49.359   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\Cyberlink MPEG-2 decoder.lnk
+2010-07-29 10:01:49.359   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration
+2010-07-29 10:01:49.359   -- Icon entry --
+2010-07-29 10:01:49.359   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\DirectVobSub.lnk
+2010-07-29 10:01:49.406   -- Icon entry --
+2010-07-29 10:01:49.406   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\ffdshow audio decoder.lnk
+2010-07-29 10:01:49.406   -- Icon entry --
+2010-07-29 10:01:49.406   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\ffdshow video decoder.lnk
+2010-07-29 10:01:49.406   -- Icon entry --
+2010-07-29 10:01:49.406   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\ffdshow DXVA video decoder.lnk
+2010-07-29 10:01:49.406   -- Icon entry --
+2010-07-29 10:01:49.406   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\ffdshow VFW interface.lnk
+2010-07-29 10:01:49.406   -- Icon entry --
+2010-07-29 10:01:49.406   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\Haali Media Splitter.lnk
+2010-07-29 10:01:49.421   -- Icon entry --
+2010-07-29 10:01:49.421   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\Haali video renderer.lnk
+2010-07-29 10:01:49.437   -- Icon entry --
+2010-07-29 10:01:49.437   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\madFLAC.lnk
+2010-07-29 10:01:49.453   -- Icon entry --
+2010-07-29 10:01:49.453   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\Reset to recommended settings.lnk
+2010-07-29 10:01:49.453   -- Icon entry --
+2010-07-29 10:01:49.453   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\VP7 decoder.lnk
+2010-07-29 10:01:49.453   -- Icon entry --
+2010-07-29 10:01:49.453   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Configuration\Xvid encoder.lnk
+2010-07-29 10:01:49.453   -- Icon entry --
+2010-07-29 10:01:49.453   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool\All options.lnk
+2010-07-29 10:01:49.453   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool
+2010-07-29 10:01:49.468   -- Icon entry --
+2010-07-29 10:01:49.468   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool\Manage DirectShow filters.lnk
+2010-07-29 10:01:49.500   -- Icon entry --
+2010-07-29 10:01:49.500   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool\Manage ACM and VFW codecs.lnk
+2010-07-29 10:01:49.515   -- Icon entry --
+2010-07-29 10:01:49.515   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool\Manage preferred DirectShow source filters.lnk
+2010-07-29 10:01:49.515   -- Icon entry --
+2010-07-29 10:01:49.515   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Codec Tweak Tool\Generate log with system information.lnk
+2010-07-29 10:01:49.515   -- Icon entry --
+2010-07-29 10:01:49.515   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\Codec Tweak Tool.lnk
+2010-07-29 10:01:49.531   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools
+2010-07-29 10:01:49.531   -- Icon entry --
+2010-07-29 10:01:49.531   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\Haali Muxer.lnk
+2010-07-29 10:01:49.578   -- Icon entry --
+2010-07-29 10:01:49.578   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\GraphStudio.lnk
+2010-07-29 10:01:49.578   -- Icon entry --
+2010-07-29 10:01:49.578   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\MediaInfo.lnk
+2010-07-29 10:01:49.578   -- Icon entry --
+2010-07-29 10:01:49.578   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\VobSubStrip.lnk
+2010-07-29 10:01:49.578   -- Icon entry --
+2010-07-29 10:01:49.578   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Tools\Xvid StatsReader.lnk
+2010-07-29 10:01:49.593   -- Icon entry --
+2010-07-29 10:01:49.593   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Help\Frequently Asked Questions.lnk
+2010-07-29 10:01:49.593   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Help
+2010-07-29 10:01:49.593   -- Icon entry --
+2010-07-29 10:01:49.593   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Help\Website.url
+2010-07-29 10:01:49.593   -- Icon entry --
+2010-07-29 10:01:49.593   Filename: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Uninstall\Uninstall K-Lite Codec Pack.lnk
+2010-07-29 10:01:49.593   Creating directory: C:\Documents and Settings\All Users\Start Menu\Programs\K-Lite Codec Pack\Uninstall
+2010-07-29 10:01:50.125   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\ffdshow\ffdshow.ax
+2010-07-29 10:01:50.125   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\ffdshow\ffdshow.ax"
+2010-07-29 10:01:50.718   Registration successful.
+2010-07-29 10:01:50.718   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\vp7dec.ax
+2010-07-29 10:01:50.718   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\vp7dec.ax"
+2010-07-29 10:01:50.781   Registration successful.
+2010-07-29 10:01:50.781   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\vp8decoder.dll
+2010-07-29 10:01:50.781   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\vp8decoder.dll"
+2010-07-29 10:01:50.859   Registration successful.
+2010-07-29 10:01:50.859   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\ac3file.ax
+2010-07-29 10:01:50.859   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\ac3file.ax"
+2010-07-29 10:01:50.890   Registration successful.
+2010-07-29 10:01:50.890   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\mmamr.ax
+2010-07-29 10:01:50.890   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\mmamr.ax"
+2010-07-29 10:01:50.968   Registration successful.
+2010-07-29 10:01:50.968   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdmx.ax
+2010-07-29 10:01:50.968   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdmx.ax"
+2010-07-29 10:01:51.000   Registration successful.
+2010-07-29 10:01:51.000   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdec.ax
+2010-07-29 10:01:51.000   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\mmmpcdec.ax"
+2010-07-29 10:01:51.046   Registration successful.
+2010-07-29 10:01:51.046   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSDecoder.ax
+2010-07-29 10:01:51.046   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSDecoder.ax"
+2010-07-29 10:01:51.093   Registration successful.
+2010-07-29 10:01:51.093   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSSplitter.ax
+2010-07-29 10:01:51.093   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\WavPackDSSplitter.ax"
+2010-07-29 10:01:51.125   Registration successful.
+2010-07-29 10:01:51.125   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\madFlac.ax
+2010-07-29 10:01:51.125   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\madFlac.ax"
+2010-07-29 10:01:51.187   Registration successful.
+2010-07-29 10:01:51.187   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\MonkeySource.ax
+2010-07-29 10:01:51.187   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\MonkeySource.ax"
+2010-07-29 10:01:51.218   Registration successful.
+2010-07-29 10:01:51.218   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\CLVSD.ax
+2010-07-29 10:01:51.218   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\CLVSD.ax"
+2010-07-29 10:01:51.296   Registration successful.
+2010-07-29 10:01:51.296   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\MpegSplitter.ax
+2010-07-29 10:01:51.296   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\MpegSplitter.ax"
+2010-07-29 10:01:51.343   Registration successful.
+2010-07-29 10:01:51.343   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\FLVSplitter.ax
+2010-07-29 10:01:51.343   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\FLVSplitter.ax"
+2010-07-29 10:01:51.375   Registration successful.
+2010-07-29 10:01:51.375   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\MP4Splitter.ax
+2010-07-29 10:01:51.375   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\MP4Splitter.ax"
+2010-07-29 10:01:51.437   Registration successful.
+2010-07-29 10:01:51.437   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mkx.dll
+2010-07-29 10:01:51.437   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\mkx.dll"
+2010-07-29 10:01:51.500   Registration successful.
+2010-07-29 10:01:51.500   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\ogm.dll
+2010-07-29 10:01:51.500   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\ogm.dll"
+2010-07-29 10:01:51.546   Registration successful.
+2010-07-29 10:01:51.546   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\mp4.dll
+2010-07-29 10:01:51.546   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\mp4.dll"
+2010-07-29 10:01:51.578   Registration successful.
+2010-07-29 10:01:51.578   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\ts.dll
+2010-07-29 10:01:51.578   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\ts.dll"
+2010-07-29 10:01:51.609   Registration successful.
+2010-07-29 10:01:51.609   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\avi.dll
+2010-07-29 10:01:51.609   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\avi.dll"
+2010-07-29 10:01:51.640   Registration successful.
+2010-07-29 10:01:51.640   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\splitter.ax
+2010-07-29 10:01:51.640   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\splitter.ax"
+2010-07-29 10:01:51.703   Registration successful.
+2010-07-29 10:01:51.703   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\avs.dll
+2010-07-29 10:01:51.703   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\avs.dll"
+2010-07-29 10:01:51.734   Registration successful.
+2010-07-29 10:01:51.734   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\Haali\dxr.dll
+2010-07-29 10:01:51.734   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\Haali\dxr.dll"
+2010-07-29 10:01:51.765   Registration successful.
+2010-07-29 10:01:51.765   Registering 32-bit DLL/OCX: C:\Program Files\K-Lite Codec Pack\Filters\vsfilter.dll
+2010-07-29 10:01:51.765   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "C:\Program Files\K-Lite Codec Pack\Filters\vsfilter.dll"
+2010-07-29 10:01:51.859   Registration successful.
+2010-07-29 10:01:51.968   Installation process succeeded.
+2010-07-29 10:01:51.968   Performing additional configuration steps.
+2010-07-29 10:01:51.968   Creating file associations.
+2010-07-29 10:01:52.125   Performing error detection and correction.
+2010-07-29 10:01:52.125   Start detection of broken codecs (32-bit)
+2010-07-29 10:01:52.156   Finished detection of broken codecs (32-bit)
+2010-07-29 10:01:52.156   Start detection of broken DirectShow filters (32-bit)
+2010-07-29 10:01:52.343   Finished detection of broken DirectShow filters (32-bit)
+2010-07-29 10:01:52.343   Start detection of invalid references in Media Type keys
+2010-07-29 10:01:52.359   Finished detection of invalid references in Media Type keys
+2010-07-29 10:01:52.359   Start detection of broken DirectX Media Objects
+2010-07-29 10:01:52.359   Finished detection of broken DirectX Media Objects
+2010-07-29 10:01:52.359   Installation complete.
+2010-07-29 10:01:52.359   Need to restart Windows? No

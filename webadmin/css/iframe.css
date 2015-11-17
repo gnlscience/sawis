@@ -1,0 +1,30 @@
+/*
+color:
+   white
+   gray
+   black
+   divMesasges: forestgreen; darkorange; red;
+ 
+borders:
+   lightgrey
+   #343434
+   black
+
+bg colours:
+   td & tr: white
+   tr:hover td, message div: #ffffdd
+   th: #E6E6E6
+   #343434
+   control border: #9B9B9B
+
+*/
+/* Tags */
+
+#tblContent, #divContent{
+   background: none;
+   width: 98%;
+   min-height: 50px; /*min height ie hack: min-height for propper browsers, height: auto !i + height:_ for ie*/
+   height: auto !important;
+   height: 50px;
+   padding-right: 20px;
+}

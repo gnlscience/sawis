@@ -1,0 +1,14 @@
+/*
+   For I.E
+*/
+.ulLevel1 li,
+.bottom-ulLevel1 li {behavior: expression(this.onmouseover = new Function("this.className += ' hover'"), this.onmouseout = new Function("this.className = this.className.replace(' hover','')"), this.style.behavior = null);}
+.bottom-ulLevel1 li{
+   padding-left:expression((this===this.parentNode.childNodes[0]) ? "0" : "auto");
+   background-image:expression((this===this.parentNode.childNodes[0]) ? "none" : "auto");
+}
+.paging ul li {
+   padding-left:expression((this===this.parentNode.childNodes[0]) ? "20" : "auto");
+   background-image:expression((this===this.parentNode.childNodes[0]) ? "none" : "auto");
+}
+

@@ -1,0 +1,1630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"Message"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"session_de",
+				"session_decode"
+			],
+			[
+				"arr",
+				"arrFarm"
+			],
+			[
+				"Registration",
+				"RegistrationArgs"
+			],
+			[
+				"S2",
+				"S2REGISTRATION"
+			],
+			[
+				"farm",
+				"FarmID"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"tblMem",
+				"tblMember"
+			],
+			[
+				"bln",
+				"blnNewUserExistingMemberContinue"
+			],
+			[
+				"Fa",
+				"FarmID"
+			],
+			[
+				"dbl",
+				"dblDencity"
+			],
+			[
+				"Trel",
+				"TrellisID"
+			],
+			[
+				"Contro",
+				"ControlText"
+			],
+			[
+				"Cont",
+				"ControlValue"
+			],
+			[
+				"Member",
+				"MemberID"
+			],
+			[
+				"strMem",
+				"strMemberTypeCode"
+			],
+			[
+				"strP",
+				"strPasswordMD5"
+			],
+			[
+				"txtRe",
+				"txtRegistrationNotes"
+			],
+			[
+				"strRe",
+				"strRegistrationMessage"
+			],
+			[
+				"Field",
+				"FieldList"
+			],
+			[
+				"refMember",
+				"refMemberTypeID"
+			],
+			[
+				"Registr",
+				"RegistrationArgs"
+			],
+			[
+				"show",
+				"showVATReg"
+			],
+			[
+				"opt",
+				"optSelect"
+			],
+			[
+				"Mem",
+				"MemberID"
+			],
+			[
+				"mem",
+				"MemberID"
+			],
+			[
+				"Me",
+				"MemberID"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"strMen",
+				"strMenuSidebar"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"curre",
+				"currentURL"
+			],
+			[
+				"GLO",
+				"global"
+			],
+			[
+				"Lan",
+				"Languages"
+			],
+			[
+				"La",
+				"Language"
+			],
+			[
+				"Fi",
+				"FieldList"
+			],
+			[
+				"IIF",
+				"IIFEXPORT"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"Pro",
+				"ProjectID"
+			],
+			[
+				"ref",
+				"refProjectID"
+			],
+			[
+				"strPro",
+				"strProjectItem"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"htmlde",
+				"html_entity_decode"
+			],
+			[
+				"Job",
+				"JobType"
+			],
+			[
+				"Com",
+				"CompanyID"
+			],
+			[
+				"doQ",
+				"doQuery"
+			],
+			[
+				"doQu",
+				"doQuery"
+			],
+			[
+				"row",
+				"rowSync"
+			],
+			[
+				"intSync",
+				"intSyncError"
+			],
+			[
+				"stg",
+				"stgTable"
+			],
+			[
+				"Local",
+				"LocalFieldFROM"
+			],
+			[
+				"rowSync",
+				"rowSyncKey"
+			],
+			[
+				"Ent",
+				"EntityID"
+			],
+			[
+				"Remo",
+				"RemoteDatabase"
+			],
+			[
+				"odbc_fetch",
+				"odbc_fetch_object"
+			],
+			[
+				"C",
+				"ClientID"
+			],
+			[
+				"odbc_f",
+				"odbc_fetch_object"
+			],
+			[
+				"odbc_",
+				"odbc_exec"
+			],
+			[
+				"error",
+				"error_get_last"
+			],
+			[
+				"Re",
+				"RemoteField"
+			],
+			[
+				"Sync",
+				"SyncKey"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ORD",
+				"ORDINAL_POSITION"
+			],
+			[
+				"contact",
+				"Contact"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"Lime",
+				"limesurvey"
+			],
+			[
+				"err",
+				"error_get_last"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"column",
+				"columnname"
+			],
+			[
+				"arrCo",
+				"arrColumns"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"mysql_",
+				"mysql_fetch_field"
+			],
+			[
+				"deleteInterviewRe",
+				"deleteInterviewResponses"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"PracticeDe",
+				"PracticeDetails"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"dt",
+				"dtEndDate"
+			],
+			[
+				"session",
+				"session_register"
+			],
+			[
+				"Log",
+				"LogEvent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "webadmin/includes/business.relationship.cls.php",
+			"settings":
+			{
+				"buffer_size": 6329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/business.relationship.php",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/farm.pending.php",
+			"settings":
+			{
+				"buffer_size": 5106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/includes/farm.pending.cls.php",
+			"settings":
+			{
+				"buffer_size": 18659,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/includes/member.pending.cls.php",
+			"settings":
+			{
+				"buffer_size": 11823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/member.pending.php",
+			"settings":
+			{
+				"buffer_size": 6789,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webadmin/member.php",
+			"settings":
+			{
+				"buffer_size": 7017,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/W/sawis/webadmin/includes/farm.pending.cls (2).php",
+		"/W/sawis/webadmin/includes/farm.pending.cls",
+		"/W/sawis/webadmin/member.php",
+		"/W/sawis/webadmin/includes/member.pending.cls.php",
+		"/W/sawis/webadmin/member.pending.php",
+		"/W/sawis/webadmin/includes/member.registration.cls.php",
+		"/W/sawis/webadmin/includes/farm.cls.php",
+		"/W/sawis/webadmin/farm.php",
+		"/W/sawis/webadmin/farm.pending.php",
+		"/W/sawis/webadmin/includes/block.cls.php",
+		"/W/sawis/webadmin/my.user.php",
+		"/W/sawis/webadmin/includes/my.user.cls.php",
+		"/W/sawis/webadmin/includes/user.cls.php",
+		"/W/sawis/webadmin/includes/farm.pending.cls.php",
+		"/W/sawis/webadmin/includes/registration.blocks.cls.php",
+		"/W/sawis/webadmin/includes/document.cls.php",
+		"/W/sawis/webadmin/document.php",
+		"/W/sawis/webadmin/includes/member.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.list.cls.php",
+		"/W/sawis/webadmin/includes/registration.farm.cls.php",
+		"/W/sawis/webadmin/project.functions.inc.php",
+		"/W/sawis/webadmin/registration.member.php",
+		"/W/sawis/webadmin/index.php",
+		"/W/sawis/webadmin/system.php",
+		"/W/sawis/webadmin/_framework/system.functions.inc.php",
+		"/W/sawis/webadmin/layouts/layout.back.incl.php",
+		"/W/sawis/webadmin/layouts/header.incl.php",
+		"/W/sawis/webadmin/_framework/_nemo.details.cls.php",
+		"/W/sawis_api/ajaxfunctions.php",
+		"/W/sawis/webadmin/registration.blocks.php",
+		"/W/sawis/webadmin/farm.pending.transfer.php",
+		"/W/sawis/webadmin/farm.pending.subdivision.php",
+		"/W/sawis/webadmin/registration.farm.php",
+		"/W/sawis/webadmin/subdivision.blocks.php",
+		"/W/sawis/webadmin/_framework/_nemo.translations.inc.php",
+		"/W/sawis/webadmin/css/colourlessNEW.css",
+		"/W/sawis/webadmin/faq.php",
+		"/W/sawis/webadmin/faq.console.php",
+		"/W/sawis/webadmin/includes/faq.console.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.faq.cls.php",
+		"/W/sawis/webadmin/_framework/nemo.faq.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.email.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.wizzard.cls.php",
+		"/W/sawis/webadmin/ajaxfunctions.php",
+		"/W/sawis/webadmin/message.php",
+		"/W/sawis/webadmin/_framework/_nemo.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.database2.cls.php",
+		"/W/sawis/sawis.sublime-workspace",
+		"/W/sawis/webadmin/home.php",
+		"/W/sawis/webadmin/_framework/_nemo.email.cls.php.ORIGANAL",
+		"/W/sawis/webadmin/documents/59082000_New Text Document (2).txt",
+		"/D/Documents/Databases/sawis data/sawis_routines.sql",
+		"/W/sawis/webadmin/pending.farm.transfer.php",
+		"/W/sawis/webadmin/layouts/layout.vineyard.rpt2.php",
+		"/W/sawis/webadmin/layouts/layout.vineyard.rpt.php",
+		"/W/sawis/webadmin/includes/cultivar.cls.php",
+		"/W/sawis/webadmin/login.php",
+		"/W/sawis/webadmin/user.php",
+		"/W/gsa/include/system.inc.php",
+		"/W/gsa/include/systemLive.inc.php",
+		"/W/sawis/webadmin/email.php",
+		"/W/sawis/webadmin/includes/email.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.basic.cls.php",
+		"/W/sawis/webadmin/php.ini",
+		"/W/sawis/webadmin/_framework/_nemo.menu.translator.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.menu.cls.php",
+		"/W/sawis/webadmin/my.profile.php",
+		"/W/sawis/webadmin/layouts/layout.basic.incl.php",
+		"/W/celestis_academy/webadmin/_nemo.email.cls.php",
+		"//lamp/www/yusiry/list.php",
+		"/D/Documents/Work Stuff/RGBC/201506/cognos14.20150630.txt",
+		"/D/Documents/Work Stuff/RGBC/201506/cognos14.txt",
+		"/W/sawis/webadmin/includes/trellising.cls.php",
+		"/W/sawis/webadmin/trellising.php",
+		"/W/sawis/webadmin/_framework/_nemo.control.cls.php",
+		"/W/sawis/webadmin/includes/wine.type.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.list.basic.cls.php",
+		"/W/sawis/webadmin/includes/location.cls.php",
+		"/C/Users/PJ/AppData/Local/Temp/fz3temp-1/member.registration.cls.php",
+		"/C/Users/PJ/AppData/Local/Temp/fz3-14352465509350",
+		"/C/Users/PJ/AppData/Local/Temp/fz3temp-1/registration.member.php",
+		"/W/sawis/webadmin/member.type.php",
+		"/W/sawis/webadmin/includes/business.relationship.cls.php",
+		"/W/sawis/webadmin/business.relationship.php",
+		"/W/sawis/webadmin/css/colourless.css",
+		"/W/sawis/webadmin/includes/faq.cls.php",
+		"/W/sawis/webadmin/includes/irrigation.cls.php",
+		"/W/sawis/webadmin/includes/member.type.cls.php",
+		"/W/sawis/webadmin/includes/user.roles.cls.php",
+		"/W/sawis/webadmin/includes/security.group.cls.php",
+		"/W/sawis/webadmin/includes/rootstock.cls.php",
+		"/W/sawis/webadmin/includes/email.template.cls.php",
+		"/W/sawis/webadmin/location.php",
+		"/W/sawis/webadmin/member.registration.php",
+		"/C/Users/PJ/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/TFBTJXTI/ATT00001.htm",
+		"/W/sawis/webadmin/cultivar.php",
+		"/C/Users/PJ/AppData/Local/Temp/tblCourse.sql",
+		"/D/Documents/Work Stuff/Celestis/tblLearner.sql",
+		"/W/sawis/webadmin/region.jd.php",
+		"/W/sawis/webadmin/includes/region.cls.jd.php",
+		"/W/sawis/webadmin/includes/region.cls.hdp.php",
+		"/W/sawis/webadmin/region.hdp.php",
+		"/W/sawis/webadmin/_framework/_nemo.database.cls.php",
+		"/W/sawis/webadmin/geo.php",
+		"/W/sawis/webadmin/includes/geo.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.menu.basic.cls.php",
+		"/W/sawis/webadmin/_framework/_nemo.details.translations.cls.php",
+		"/W/nemo2/includes/email.cls.php",
+		"/W/nemo2/includes/email.template.cls.php",
+		"/W/nemo2/includes/security.group.cls.php",
+		"/W/nemo2/includes/settings.cls.php",
+		"/W/nemo2/includes/user.cls.php",
+		"/W/nemo2/report.php",
+		"/W/nemo2/zSandBox.php",
+		"/W/nemo2/login.php",
+		"/W/nemo2/message.php",
+		"/W/nemo2/message.incl.php",
+		"/W/nemo2/email.php",
+		"/W/nemo2/email.template.php",
+		"/W/nemo2/security.group.php",
+		"/W/nemo2/settings.php",
+		"/W/nemo2/user.php",
+		"/W/nemo2/ads.image.php",
+		"/W/nemo2/facility.php",
+		"/W/nemo2/note.php",
+		"/W/nemo2/question.php",
+		"/W/nemo2/ztest.php",
+		"/W/nemo2/_framework/_nemo.cls.php"
+	],
+	"find":
+	{
+		"height": 93.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"W:\\timesheet2,-*.txt",
+			"W:\\timesheet2",
+			"W:\\timesheet",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MemberID",
+			"tmpFarm",
+			"ApproveInPrinciple",
+			"vieMemberRelationshipTMPx3",
+			"strApprovedBy",
+			"vieMemberRelationshipTMP",
+			"getMemberFarms",
+			"sysUserFunction",
+			"sysUserFunctions",
+			"tblMember",
+			"$FarmID",
+			"vieMemberRelationship",
+			"$pending",
+			"refSecurityGroupID",
+			"SubmitLink",
+			"refSecurityGroupID",
+			"newMemberID",
+			"$MemberID",
+			"tmpMember",
+			"'$newMemberID'",
+			"'\".$newMemberID.\"'",
+			"BlockMovement",
+			"tmpMemberType",
+			"RETURN_URL=\". urlencode",
+			"getMemberDocsTMP",
+			"Member",
+			"'Entity Type'",
+			"//20151110 - added tmp Docs functions",
+			"vieDocumentMemberTMPTMP",
+			"vieDocumentFarmTMPTMP",
+			"vieDocumentFarm",
+			"tblFarm",
+			"vieDocumentMember",
+			"tblMember",
+			"Member",
+			"RegistrationNumber",
+			"VAT RegistrationNumber",
+			"tblMember",
+			"'",
+			"n parseXmlRow",
+			"parseXmlRow",
+			"tblMember",
+			"getBlockSetupTypeContent",
+			"$_SESSION[LANGUAGE]",
+			"$_SESSION[S2REGISTRATION]->FarmID =",
+			"fonts.googleapis.com",
+			"sendSubdivisionAcceptNotification",
+			"getFarmSubDivisionDetails",
+			"dbFarm",
+			"dbMemberRelationship",
+			"$_SESSION[MembershipType]",
+			"SubmitLink",
+			"GetCompletedContentLinked",
+			"ConfirmationSend",
+			"NewSuperUserAssigned",
+			"jsGetMemberDetails",
+			"valid_Warehouse",
+			"email",
+			"emailExist",
+			"'",
+			"getFarmSubdivisions",
+			"Cell",
+			"tel",
+			"Telephone",
+			"vieMemberRelationship.",
+			")",
+			"(",
+			"             <tr>",
+			"tblMemberRelationship",
+			"getdocumentsContent",
+			"strVineStatus",
+			"rowFarmDetails",
+			"dblArea",
+			"totalHA",
+			"arrAD_Field5",
+			"arrActDescription_E",
+			"20150702",
+			"Extent (he)",
+			"e10",
+			"_nemo.database",
+			"$xdb =",
+			"Language",
+			"strSetting:Language",
+			"strtoupper",
+			"tblMemberRelationship",
+			"rowUser",
+			"btnConinueLink",
+			"subdivision.blocks.php",
+			"registration.blocks",
+			"requests.pending",
+			"login.php",
+			"rowApplicantDetails",
+			"rowApplicantDetails\nrowApplicantDetails",
+			"rstApplicantDetails",
+			"FarmItem",
+			"BValue",
+			"renderTable",
+			"TypeOfRegstration_New",
+			"RegType",
+			"blnVB_Notice",
+			"jsMembershipEngine",
+			"valid_strEmail_exist",
+			"ActiveParent",
+			"getLinkedMemberContent",
+			"ActiveParent",
+			"Final Submission",
+			"$_SESSION[USER]",
+			"registration.blocks",
+			"Submit",
+			"CopyBlock",
+			"Consolidation of an existing SAWIS farm",
+			"getFarmDetails",
+			"jsRemoveBlock",
+			"est data",
+			"<br>",
+			"rstFarmBlocks",
+			"rowFarmBlocks",
+			"b style='font-weight:bold'",
+			"b style='font-weight:bold;'",
+			"fonts.googleapis.com",
+			"$_POST[]",
+			"tblFarm.strUser",
+			"union",
+			"NearestTownList",
+			"arrFileName",
+			"arrUploadDate",
+			"'",
+			"jsGetTrellisImage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ID",
+			"tblFarm",
+			"vieMemberRelationshipTMPx2",
+			"vieMemberRelationshipTMPx3",
+			"tmpMember",
+			"$tmpFarmID",
+			"vieMemberRelationshipTMP",
+			"$blnTMP",
+			"MemberID",
+			"$tmpMemberID",
+			"tblMember",
+			"$newMemberID",
+			"Farm",
+			"`Entity Type`",
+			"//20151110 - added tmp Docs functions - pj",
+			"vieDocumentMemberTMP",
+			"vieDocumentFarmTMP",
+			"tmpFarm",
+			"vieDocumentMemberTMP",
+			"tmpMember",
+			"Farm",
+			"tmpMember",
+			"\"",
+			"tmpMember",
+			"\"",
+			"",
+			"            <tr>",
+			"getDocumentsContent",
+			"rowMember",
+			"rowApplicantDetails",
+			"divMyFarms_D4",
+			"$BR",
+			"rstBlock",
+			"rowBlock",
+			"b",
+			"$",
+			"\"",
+			"Density",
+			"BlockMovement",
+			"rowYear",
+			"\". $_SESSION[LANGUAGE] .\"",
+			"Member",
+			"",
+			"ApproveInPrinciple",
+			"APPROVED_IN_PRINCIPLE",
+			"APPROVE_IN_PRINCIPLE",
+			"$_SESSION[USER]->LANGUAGE",
+			"'",
+			"\n'",
+			"\n",
+			"arrStatus",
+			"idxStep",
+			"rowMember",
+			"rowRegistrationStatus",
+			".=",
+			"Contact",
+			"\"",
+			"rowUser",
+			"rowMember",
+			"Contact",
+			"strVATRegistrationNumber",
+			"$SP",
+			"\". $_TRANSLATION[$_SESSION[LANGUAGE]][\"optSelect\"] .\"",
+			"$BR",
+			"lblSearchPromp",
+			"$imgRequired",
+			"$ingRequired",
+			"Action",
+			"\"",
+			"SAWIS",
+			"blnBlancDeNoir",
+			"Farm",
+			"Document",
+			"",
+			"frType",
+			"Document",
+			"",
+			"arrPageToolbar",
+			"frMemberType",
+			"User",
+			"myBR",
+			"tblMember",
+			"Member",
+			"frMemberType",
+			"fsrItem",
+			"",
+			"= syncBlock.",
+			"",
+			"),",
+			"= trim(",
+			"",
+			"_AF",
+			"tblLearner2",
+			"trim(",
+			"),",
+			"",
+			"Location",
+			"Geo",
+			"tblGeo",
+			"geo",
+			"Geo",
+			"geo",
+			"sysFAQ",
+			"Sidebar",
+			"DevelopedBy",
+			"   ",
+			"sawis",
+			"include_once(\"_framework/_nemo.list.cls.php\");",
+			"include_once(\"_framework/_nemo.basic.cls.php\");",
+			"include_once(\"_framework/_nemo.email.cls.php\");",
+			"include_once(\"_framework/_nemo.details.cls.php\");",
+			"include_once(\"_framework/_nemo.cls.php\");",
+			"ProjectItem",
+			"tblInvoice",
+			"\"Avg\"",
+			"\"Total\"",
+			"th",
+			"td",
+			"arrUser",
+			"arrUsers",
+			"Ticket",
+			"Rate",
+			"ProjectItem",
+			"=",
+			"$TicketItemID",
+			"",
+			"\"",
+			"JobType"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "webadmin/includes/business.relationship.cls.php",
+					"settings":
+					{
+						"buffer_size": 6329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webadmin/business.relationship.php",
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webadmin/farm.pending.php",
+					"settings":
+					{
+						"buffer_size": 5106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "webadmin/includes/farm.pending.cls.php",
+					"settings":
+					{
+						"buffer_size": 18659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "webadmin/includes/member.pending.cls.php",
+					"settings":
+					{
+						"buffer_size": 11823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6641,
+								6687
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1991.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "webadmin/member.pending.php",
+					"settings":
+					{
+						"buffer_size": 6789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "webadmin/member.php",
+					"settings":
+					{
+						"buffer_size": 7017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mem",
+				"webadmin/member.php"
+			],
+			[
+				"farm.pen",
+				"webadmin/includes/farm.pending.cls"
+			],
+			[
+				"farm",
+				"webadmin/farm.pending.php"
+			],
+			[
+				"farmpen",
+				"webadmin/farm.pending.php"
+			],
+			[
+				"farm.p",
+				"webadmin/includes/farm.pending.cls"
+			],
+			[
+				"mempen",
+				"webadmin/includes/member.pending.cls.php"
+			],
+			[
+				"myu",
+				"webadmin/includes/my.user.cls.php"
+			],
+			[
+				"user",
+				"webadmin/includes/user.cls.php"
+			],
+			[
+				"my",
+				"webadmin/my.user.php"
+			],
+			[
+				"farm.cls",
+				"webadmin/includes/farm.cls.php"
+			],
+			[
+				"pending",
+				"webadmin/includes/member.pending.cls.php"
+			],
+			[
+				"block",
+				"webadmin/includes/block.cls.php"
+			],
+			[
+				"business.relationship",
+				"webadmin/business.relationship.php"
+			],
+			[
+				"business",
+				"webadmin/includes/business.relationship.cls.php"
+			],
+			[
+				"doc",
+				"webadmin/includes/document.cls.php"
+			],
+			[
+				"far",
+				"webadmin/includes/registration.farm.cls.php"
+			],
+			[
+				"memreg",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"doccls",
+				"webadmin/includes/document.cls.php"
+			],
+			[
+				"nemolist",
+				"webadmin/_framework/_nemo.list.cls.php"
+			],
+			[
+				"nemodeta",
+				"webadmin/_framework/_nemo.details.cls.php"
+			],
+			[
+				"sys",
+				"webadmin/_framework/system.functions.inc.php"
+			],
+			[
+				"projec",
+				"webadmin/project.functions.inc.php"
+			],
+			[
+				"pen",
+				"webadmin/includes/member.pending.cls.php"
+			],
+			[
+				"mem.pen",
+				"webadmin/member.pending.php"
+			],
+			[
+				"index",
+				"webadmin/index.php"
+			],
+			[
+				"regmem",
+				"webadmin/registration.member.php"
+			],
+			[
+				"farmcls",
+				"webadmin/includes/farm.cls.php"
+			],
+			[
+				"reg",
+				"webadmin/registration.member.php"
+			],
+			[
+				"pendin",
+				"webadmin/farm.pending.transfer.php"
+			],
+			[
+				"regbloc",
+				"webadmin/includes/registration.blocks.cls.php"
+			],
+			[
+				"subd",
+				"webadmin/subdivision.blocks.php"
+			],
+			[
+				"css",
+				"webadmin/css/colourlessNEW.css"
+			],
+			[
+				"header",
+				"webadmin/layouts/header.incl.php"
+			],
+			[
+				"regfarm",
+				"webadmin/includes/registration.farm.cls.php"
+			],
+			[
+				"ending",
+				"webadmin/farm.pending.transfer.php"
+			],
+			[
+				"faq",
+				"webadmin/_framework/_nemo.faq.cls.php"
+			],
+			[
+				"fq",
+				"webadmin/faq.console.php"
+			],
+			[
+				"member.registration.cls",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"aja",
+				"webadmin/ajaxfunctions.php"
+			],
+			[
+				"wiz",
+				"webadmin/_framework/_nemo.wizzard.cls.php"
+			],
+			[
+				"transfer",
+				"webadmin/farm.pending.transfer.php"
+			],
+			[
+				"emailcls",
+				"webadmin/_framework/_nemo.email.cls.php"
+			],
+			[
+				"email",
+				"webadmin/_framework/_nemo.email.cls.php"
+			],
+			[
+				"message",
+				"webadmin/message.php"
+			],
+			[
+				"nemodata",
+				"webadmin/_framework/_nemo.database2.cls.php"
+			],
+			[
+				"regist",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"member.registration",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"home",
+				"webadmin/home.php"
+			],
+			[
+				"home.php",
+				"webadmin/home.php"
+			],
+			[
+				"inde",
+				"webadmin/index.php"
+			],
+			[
+				"registr",
+				"webadmin/registration.farm.php"
+			],
+			[
+				"ref",
+				"webadmin/registration.farm.php"
+			],
+			[
+				"regfar",
+				"webadmin/includes/registration.farm.cls.php"
+			],
+			[
+				"regstr",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"block.cls",
+				"webadmin/includes/registration.blocks.cls.php"
+			],
+			[
+				"ajax",
+				"webadmin/ajaxfunctions.php"
+			],
+			[
+				"head",
+				"webadmin/layouts/header.incl.php"
+			],
+			[
+				"gis",
+				"webadmin/includes/registration.blocks.cls.php"
+			],
+			[
+				"proje",
+				"webadmin/project.functions.inc.php"
+			],
+			[
+				"bloc",
+				"webadmin/includes/block.cls.php"
+			],
+			[
+				"wizzard",
+				"webadmin/_framework/_nemo.wizzard.cls.php"
+			],
+			[
+				"pro",
+				"webadmin/project.functions.inc.php"
+			],
+			[
+				"regis",
+				"webadmin/registration.member.php"
+			],
+			[
+				"ema",
+				"webadmin/_framework/_nemo.email.cls.php"
+			],
+			[
+				"registration.farm",
+				"webadmin/registration.farm.php"
+			],
+			[
+				"log",
+				"webadmin/login.php"
+			],
+			[
+				"email.cl",
+				"webadmin/_framework/_nemo.email.cls.php"
+			],
+			[
+				"regi",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"member",
+				"webadmin/includes/member.cls.php"
+			],
+			[
+				"pend",
+				"webadmin/includes/member.pending.cls.php"
+			],
+			[
+				"ind",
+				"webadmin/index.php"
+			],
+			[
+				"emai",
+				"webadmin/_framework/_nemo.email.cls.php"
+			],
+			[
+				"_nemo.basic.cls.php",
+				"webadmin/_framework/_nemo.basic.cls.php"
+			],
+			[
+				"_nemo",
+				"webadmin/_framework/_nemo.cls.php"
+			],
+			[
+				"_nemo.",
+				"webadmin/_framework/_nemo.cls.php"
+			],
+			[
+				"nemo",
+				"webadmin/_framework/_nemo.basic.cls.php"
+			],
+			[
+				".css",
+				"webadmin/css/colourlessNEW.css"
+			],
+			[
+				"tre",
+				"webadmin/includes/trellising.cls.php"
+			],
+			[
+				"details",
+				"webadmin/_framework/_nemo.details.cls.php"
+			],
+			[
+				"data",
+				"webadmin/_framework/_nemo.database2.cls.php"
+			],
+			[
+				"contr",
+				"webadmin/_framework/_nemo.control.cls.php"
+			],
+			[
+				"registration",
+				"webadmin/includes/member.registration.cls.php"
+			],
+			[
+				"nemo.cls",
+				"webadmin/_framework/_nemo.cls.php"
+			],
+			[
+				"nemobasi",
+				"webadmin/_framework/_nemo.list.basic.cls.php"
+			],
+			[
+				"wine",
+				"webadmin/includes/wine.type.cls.php"
+			],
+			[
+				"loc",
+				"webadmin/includes/location.cls.php"
+			],
+			[
+				"detai",
+				"webadmin/_framework/_nemo.details.cls.php"
+			],
+			[
+				"deta",
+				"webadmin/_framework/_nemo.details.cls.php"
+			],
+			[
+				"hom",
+				"webadmin/home.php"
+			],
+			[
+				"coul",
+				"webadmin/css/colourless.css"
+			],
+			[
+				"database",
+				"webadmin/_framework/_nemo.database2.cls.php"
+			],
+			[
+				"login",
+				"webadmin/login.php"
+			],
+			[
+				"trans",
+				"webadmin/_framework/_nemo.translations.inc.php"
+			],
+			[
+				"fa",
+				"webadmin/faq.php"
+			],
+			[
+				"control",
+				"webadmin/_framework/_nemo.control.cls.php"
+			],
+			[
+				"list",
+				"webadmin/_framework/_nemo.list.cls.php"
+			],
+			[
+				"basi",
+				"webadmin/_framework/_nemo.list.basic.cls.php"
+			],
+			[
+				"irr",
+				"webadmin/includes/irrigation.cls.php"
+			],
+			[
+				"lo",
+				"webadmin/login.php"
+			],
+			[
+				"cul",
+				"webadmin/includes/cultivar.cls.php"
+			],
+			[
+				"basic",
+				"webadmin/_framework/_nemo.basic.cls.php"
+			],
+			[
+				"mess",
+				"webadmin/message.php"
+			],
+			[
+				"win",
+				"webadmin/includes/wine.type.cls.php"
+			],
+			[
+				"menu",
+				"webadmin/_framework/_nemo.menu.translator.cls.php"
+			],
+			[
+				"my.profile.php",
+				"webadmin/my.profile.php"
+			],
+			[
+				"regio",
+				"webadmin/includes/region.cls.jd.php"
+			],
+			[
+				"_tra",
+				"webadmin/_framework/_nemo.translations.inc.php"
+			],
+			[
+				".cls",
+				"webadmin/includes/geo.cls.php"
+			],
+			[
+				"nemocontr",
+				"webadmin/_framework/_nemo.control.cls.php"
+			],
+			[
+				"detail",
+				"webadmin/_framework/_nemo.details.cls.php"
+			],
+			[
+				"rpt",
+				"includes/timesheet.totals.rpt.php"
+			],
+			[
+				".rpt",
+				"includes/timesheet.rpt.php"
+			],
+			[
+				"report",
+				"report.php"
+			],
+			[
+				"time",
+				"timesheet.php"
+			],
+			[
+				"rep",
+				"timesheet2/report.php"
+			],
+			[
+				"timecls",
+				"timesheet2/includes/timesheet.cls.php"
+			],
+			[
+				"timesheecls",
+				"timesheet2/includes/timesheet.cls.php"
+			],
+			[
+				"timeshcls",
+				"timesheet2/includes/timesheet.cls.php"
+			],
+			[
+				"tim",
+				"timesheet2/timesheet.php"
+			],
+			[
+				"repo",
+				"timesheet2/report.php"
+			],
+			[
+				"nemoba",
+				"timesheet2/_nemo.list.basic.cls.php"
+			],
+			[
+				"nemoreport",
+				"timesheet2/_nemo.report.cls.php"
+			],
+			[
+				"iifexport",
+				"timesheet/iifExport.php"
+			],
+			[
+				"timesrpt",
+				"timesheet2/includes/timesheet.rpt.php"
+			],
+			[
+				"over",
+				"css/overview.css"
+			],
+			[
+				"timescls",
+				"includes/timesheet.cls.php"
+			],
+			[
+				"bl",
+				"css/nemo.blue.css"
+			],
+			[
+				"projite",
+				"includes/project.item.cls.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}

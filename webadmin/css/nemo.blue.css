@@ -1,0 +1,54 @@
+/*
+color:
+   blue: #103082;
+   white
+
+borders:
+   lightgrey
+   black
+
+*/
+
+
+/* Tags */
+a{
+   color: #103082;
+   cursor: pointer;
+   text-decoration: underline;
+}
+a:hover, .menu li a:hover, menu li ul a:hover{
+   cursor: pointer;
+   color: #103082;
+   text-decoration: none;
+}
+
+
+/* IDs */
+#divHeader
+{
+   font-size: 30px;
+   color: #333;
+   border-top: 2px solid lightgrey; 
+   border-bottom: 2px solid black;
+   position: relative;
+   height:54px;
+}
+
+/* Classes */
+.textColour{
+   color: #103082;
+}
+
+
+.blokkie p{
+   border: 1px solid #103082;
+   padding: 10px;
+   margin: 0px;
+}
+
+.menuL2divider{position:absolute;border-top:solid #103082 4px;width:100%}
+
+.linkbutton
+{
+   color: #103082;
+}

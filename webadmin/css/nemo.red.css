@@ -1,0 +1,46 @@
+/*
+color:
+   reds: #CD2614;
+   white
+
+borders:
+   lightgrey
+   black
+
+*/
+
+
+/* Tags */
+a{
+   color: #CD2614;
+   cursor: pointer;
+   text-decoration: underline;
+}
+a:hover, .menu li a:hover, menu li ul a:hover{
+   cursor: pointer;
+   color: #CD2614;
+   text-decoration: none;
+}
+
+ 
+
+/* Classes */
+.textColour{
+   color: #CD2614;
+}
+
+
+.blokkie p{
+   border: 1px solid #CD2614;
+   padding: 10px;
+   margin: 0px;
+}
+.menuL2divider{position:absolute;border-top:solid #CD2614 4px;width:100%}
+/*OVERRIDE menu DIV style
+
+*/
+
+.linkbutton
+{
+   color: #CD2614;
+}

@@ -1,0 +1,55 @@
+/*
+color:
+   gold: #AB8930;
+   white
+
+borders:
+   lightgrey
+   black
+
+*/
+
+
+/* Tags */
+a{
+   color: #AB8930;
+   cursor: pointer;
+   text-decoration: underline;
+}
+a:hover, .menu li a:hover, menu li ul a:hover{
+   cursor: pointer;
+   color: #AB8930;
+   text-decoration: none;
+}
+
+
+/* IDs */
+#divHeader
+{
+   font-size: 30px;
+   color: white;
+   border-top: 2px solid lightgrey;
+   background: url("../images/topSectionBar.gold.png") repeat-x scroll 0 0 transparent;
+   border-bottom: 2px solid black;
+   position: relative;
+   height:54px;
+}
+
+/* Classes */
+.textColour{
+   color: #AB8930;
+}
+
+
+.blokkie p{
+   border: 1px solid #AB8930;
+   padding: 10px;
+   margin: 0px;
+}
+
+.menuL2divider{position:absolute;border-top:solid #AB8930 4px;width:100%}
+
+.linkbutton
+{
+   color: #AB8930;
+}

@@ -1,0 +1,1 @@
+https://globalshares.sabmiller.com/testBlank/wordpress/wp-login.php?use_sso=false
